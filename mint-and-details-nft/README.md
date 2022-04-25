@@ -1,4 +1,4 @@
-# 4. Mint & Details NFT
+# 🔍 Mint & Details NFT
 
 ### **Mint**
 

@@ -2,7 +2,7 @@
 description: (is the Background)
 ---
 
-# Rarity
+# ✨ Rarity
 
 ![Common](https://storage.googleapis.com/poninis/Traits/1-background/Common.png) ![Uncommon](https://storage.googleapis.com/poninis/Traits/1-background/Uncommon.png) ![Rare](https://storage.googleapis.com/poninis/Traits/1-background/Rare.png) ![Epic](https://storage.googleapis.com/poninis/Traits/1-background/Epic.png)
 

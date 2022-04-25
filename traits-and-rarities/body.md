@@ -2,7 +2,7 @@
 description: (trait, color & rarity)
 ---
 
-# Body
+# ✨ Body
 
 ![Brown](https://storage.googleapis.com/poninis/Traits/2-body/\_Brown.png) ![Grey](https://storage.googleapis.com/poninis/Traits/2-body/\_Grey.png) ![Sorrel](https://storage.googleapis.com/poninis/Traits/2-body/\_Sorrel.png)
 

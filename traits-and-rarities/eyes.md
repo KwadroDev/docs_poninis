@@ -2,7 +2,7 @@
 description: (trait, color & rarity)
 ---
 
-# Eyes
+# ✨ Eyes
 
 ![Normal](https://storage.googleapis.com/poninis/Traits/9-eyes/\_Normal.png) ![Corrupt](https://storage.googleapis.com/poninis/Traits/9-eyes/\_Corrupt.png) ![Mythical](https://storage.googleapis.com/poninis/Traits/9-eyes/\_Mythical.png)
 

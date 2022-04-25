@@ -1,4 +1,4 @@
-# 7. Fund Distribution
+# 📚 Fund Distribution
 
 This is how all funds from the NFT Ponini's collection are distributed
 

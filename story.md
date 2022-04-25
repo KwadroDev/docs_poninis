@@ -1,4 +1,4 @@
-# 2. Story
+# 🌄 Story
 
 ![Ponini's Corrupt](https://storage.googleapis.com/poninis/HorseBlackS.png)
 

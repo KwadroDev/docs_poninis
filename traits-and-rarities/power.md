@@ -2,7 +2,7 @@
 description: (elements & rarity)
 ---
 
-# Power
+# ✨ Power
 
 ![Air](https://storage.googleapis.com/poninis/Traits/10-power/Power\_Element\_Air.jpg) ![Water](https://storage.googleapis.com/poninis/Traits/10-power/Power\_Element\_Water.jpg)
 
