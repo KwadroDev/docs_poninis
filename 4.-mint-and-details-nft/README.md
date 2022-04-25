@@ -40,6 +40,8 @@ Supply 2,500 (Buy Limit Per Buy - 20)
 
 
 
+![](https://storage.googleapis.com/poninis/polygon\_token\_logo.png)
+
 ### **Details**
 
 **Name** - Ponini's
