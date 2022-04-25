@@ -1,12 +1,10 @@
-# 🐎 Traits & Rarities
+# 5. Traits & Rarities
 
 They are 100% unique, each of their features is worked separately and joined randomly, so that the collection is more fun and interesting.
 
 ****
 
-{% hint style="danger" %}
-Traits & Rarity percentages will be updated once the NFT drops and they are on the market to have the most accurate data
-{% endhint %}
+<mark style="background-color:red;">⚠️Traits & Rarity percentages will be updated once the NFT drops and they are on the market to have the most accurate data</mark>_<mark style="background-color:red;">.</mark>_<mark style="background-color:red;">⚠️</mark>
 
 
 

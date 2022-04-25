@@ -2,7 +2,7 @@
 description: (trait, color & rarity)
 ---
 
-# ✨ Hair Stains
+# Hair Stains
 
 ![Brown](https://storage.googleapis.com/poninis/Traits/6-hairstains/StainBrown.png) ![Grey](https://storage.googleapis.com/poninis/Traits/6-hairstains/StainGrey.png)
 

@@ -2,13 +2,13 @@
 description: (trait, color & rarity)
 ---
 
-# ✨ Horn Unicorn
+# Horn Unicorn
 
-![Stone](https://storage.googleapis.com/poninis/Traits/7-horn/\_Stone.png) ![Silver](https://storage.googleapis.com/poninis/Traits/7-horn/\_Silver.png)
+![Stone](https://storage.googleapis.com/poninis/Traits/7-horn/HornStone.png) ![Silver](https://storage.googleapis.com/poninis/Traits/7-horn/HornSilver.png)
 
-![Gold](https://storage.googleapis.com/poninis/Traits/7-horn/\_Pink.png) ![Pink](https://storage.googleapis.com/poninis/Traits/7-horn/\_Gold.png)
+![Gold](https://storage.googleapis.com/poninis/Traits/7-horn/HornPink.png) ![Pink](https://storage.googleapis.com/poninis/Traits/7-horn/HornGold.png)
 
-![Mythical](https://storage.googleapis.com/poninis/Traits/7-horn/\_Mythical.png)
+![Mythical](https://storage.googleapis.com/poninis/Traits/7-horn/HornMytical.png)
 
 **Chance and Rarity Table**
 

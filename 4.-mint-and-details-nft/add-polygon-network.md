@@ -1,4 +1,4 @@
-# ⚙ Add Polygon Network
+# Add Polygon Network
 
 **You don't know how to add the polygon network!!!**&#x20;
 

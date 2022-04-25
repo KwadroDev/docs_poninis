@@ -2,7 +2,7 @@
 description: (trait, color & rarity)
 ---
 
-# ✨ Hair
+# Hair
 
 ![Brown](https://storage.googleapis.com/poninis/Traits/5-hair/HairBrown.png) ![Grey](https://storage.googleapis.com/poninis/Traits/5-hair/HairGrey.png) ![Sorrel](https://storage.googleapis.com/poninis/Traits/5-hair/HairSorrel.png) ![Cream](https://storage.googleapis.com/poninis/Traits/5-hair/HairCream.png) ![Black](https://storage.googleapis.com/poninis/Traits/5-hair/HairBlack.png)
 

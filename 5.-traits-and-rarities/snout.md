@@ -2,7 +2,7 @@
 description: (trait, color & rarity)
 ---
 
-# ✨ Snout
+# Snout
 
 ![Black](https://storage.googleapis.com/poninis/Traits/3-snout/\_Black.png) ![Dark Brown](https://storage.googleapis.com/poninis/Traits/3-snout/Dark%20Brown.png) ![Brown](https://storage.googleapis.com/poninis/Traits/3-snout/Brown.png)
 

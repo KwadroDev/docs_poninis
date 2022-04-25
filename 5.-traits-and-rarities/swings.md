@@ -2,7 +2,7 @@
 description: (trait, color & rarity)
 ---
 
-# ✨ Swings
+# Swings
 
 ![Brown](https://storage.googleapis.com/poninis/Traits/8-wings/WingsBrown.png) ![Grey](https://storage.googleapis.com/poninis/Traits/8-wings/WingsGrey.png) ![Sorrel](https://storage.googleapis.com/poninis/Traits/8-wings/WingsSorrel.png) ![Cream](https://storage.googleapis.com/poninis/Traits/8-wings/WingsCream.png)
 
