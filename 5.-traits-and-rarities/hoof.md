@@ -2,7 +2,7 @@
 description: (trait, color & rarity)
 ---
 
-# Hoof
+# ✨ Hoof
 
 ![Brown](https://storage.googleapis.com/poninis/Traits/4-hoof/HoofBrown.png) ![Grey](https://storage.googleapis.com/poninis/Traits/4-hoof/HoofGrey.png)
 

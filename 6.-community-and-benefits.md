@@ -1,6 +1,10 @@
-# 6. Community & Benefits
+# 📊 Community & Benefits
 
 ### Social Network and Community
+
+{% hint style="danger" %}
+Be very careful, these are the only nets of the Ponini's project
+{% endhint %}
 
 \
 [Twitter](https://twitter.com/poninisnft/)
