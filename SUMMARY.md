@@ -19,4 +19,4 @@
 * [📊 Community & Benefits](6.-community-and-benefits.md)
 * [📚 Fund Distribution](7.-fund-distribution.md)
 * [📆 Roadmap](8.-roadmap.md)
-* [📃 Acknowledgement](acknowledgement.md)
+* [📃 Acknowledgement](9.-acknowledgement.md)
